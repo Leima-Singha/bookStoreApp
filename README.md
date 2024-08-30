@@ -2,4 +2,4 @@ This is a MERN project demonstrating homepage, login/logout functionality, prote
 Homepage displaying free and  paid books, free books accessible to all paid books requiring account creation.
 Local Storage maintaining user information and settings, updates the browser console with relevant user data.
 Used tailwind CSS 
-A fully responsive project
+and succesfully made a fully responsive project
