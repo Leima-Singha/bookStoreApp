@@ -8,17 +8,17 @@ function Banner() {
         <div className='w-full order-2 md:order-1 md:w-1/2 mt-12 md:mt-32'>
             <div className='space-y-12'>
             <h1 className='text-4xl font-bold'>
-                Hello, CampusBookStore welcomes you to learn something <span className='text-purple-500'>new everyday!!!</span>
+                Hello,  <span className='text-pink-500'>CampusBookStore</span> welcomes you to learn something <span className='text-purple-500'>new everyday!!!</span>
             </h1>
             <p className='text-xl'>
-            🎉 Welcome to CampusBookStore, your gateway to discovering something new every day! 🌟 At CampusBookStore, we believe that learning should be an exciting and ongoing journey 📚. Whether you're diving into a new novel 📖, exploring academic resources 🧠, or simply expanding your knowledge 🌍, we're here to offer you the tools and inspiration you need 💡. Our vast collection is curated to ignite your curiosity 🔥 and help you grow with every page you turn 📜. Join us, and let’s embark on this enlightening adventure together! 🚀✨
+            🎉 Welcome to <span className='text-pink-500'>CampusBookStore</span>, your gateway to discovering something new every day! 🌟 At CampusBookStore, we believe that learning should be an exciting and ongoing journey 📚 and we are delighted to tell you that this is the ideal location for all types of book enthusiasts! . Whether you're diving into a new novel 📖, exploring academic resources 🧠, or simply expanding your knowledge 🌍, we're here to offer you the tools and inspiration you need 💡. Our vast collection is curated to ignite your curiosity 🔥 and help you grow with every page you turn 📜. Join us, and let’s embark on this enlightening adventure together! 🚀✨
             </p>
-            <label className="input input-bordered flex items-center gap-2">
+            {/* <label className="input input-bordered flex items-center gap-2">
                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" className="w-4 h-4 opacity-70"><path d="M2.5 3A1.5 1.5 0 0 0 1 4.5v.793c.026.009.051.02.076.032L7.674 8.51c.206.1.446.1.652 0l6.598-3.185A.755.755 0 0 1 15 5.293V4.5A1.5 1.5 0 0 0 13.5 3h-11Z" /><path d="M15 6.954 8.978 9.86a2.25 2.25 0 0 1-1.956 0L1 6.954V11.5A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5V6.954Z" /></svg>
                <input type="text" className="grow" placeholder="Email" />
-            </label>
+            </label> */}
             </div>
-            <button className="btn btn-active mt-6 btn-secondary">Secondary</button>
+            {/* <button className="btn btn-active mt-6 btn-secondary">Secondary</button> */}
         </div>
         <div className='order-1 w-full md:w-1/2'>
           <img src={banner} className = "w-73 h-73" alt="" />

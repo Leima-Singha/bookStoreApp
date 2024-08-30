@@ -67,12 +67,9 @@ function Freebook() {
     <>
     <div className='max-w-screen-2xl container mx-auto md: px-18 px-4'>
         <div>
-        <h1 className='font-semibold text-xl pb-2'>Free Offered Courses</h1>
+        <h1 className='font-bold text-xl pb-2'>Free Offered Courses</h1>
         <p>
-            cghmhkjljdl vcghjgkad fhgjhkha rtfgkhl dgffgjk tdthjgmh,u ftfjgkhj 
-            fghgjh tfyguh ftgyjhktfyguh dftygu tyui tyuiid
-            cghmhkjljdl vcghjgkad fhgjhkha rtfgkhl dgffgjk tdthjgmh,u ftfjgkhj 
-            fghgjh tfyguh ftgyjhktfyguh dftygu tyui tyuiid
+        Explore the <span className='text-pink-500'>CampusBookStore</span> app to discover a diverse selection of free books across various genres! From thrilling mysteries and heartwarming romances to insightful non-fiction and timeless classics, there’s something for every reader. The app's Free Books section is updated regularly, ensuring you have access to a constantly evolving library of great reads without spending a dime. Whether you’re a passionate bookworm or just looking for your next great read, CampusBookStore makes it easy to find and download books at no cost.
         
         </p>
         </div>
